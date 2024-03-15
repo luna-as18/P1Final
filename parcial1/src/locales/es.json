@@ -1,7 +1,18 @@
 {
-  "SigIn": "Iniciar sesión",
-  "EmmailInvalid": "Tu correo electrónico no es válido",
-  "messageEmail": "Nunca compartiremos tu correo electrónico con nadie más.",
-  "messagegPasword": "Tu contraseña debe contener números y letras y debe tener al menos 6 caracteres de longitud",
-  
-  "CarModel": "Modelo de auto"}
+  "TheRefurbished.Com": "TuSegundazo.com",
+  "Contact-us": "Contáctenos",
+  "Log-in": "Inicio de sesión",
+  "Username": "Nombre de usuario",
+  "Password": "Contraseña",
+  "Sign-in": "Ingresar",
+  "Cancel": "Cancelar",
+  "Authentication error. Check your credentials": "Error de autenticación. Revise sus credenciales",
+  "Brand": "Marca",
+  "Model": "Modelo",
+  "Line": "Línea",
+  "Mileage": "Kilometraje",
+  "Color": "Color",
+  "Reference": "Referencia",
+  "masl": "msnm",
+  "No date": "Sin fecha"
+}
