@@ -59,7 +59,7 @@ function CarList() {
                 </Col>
                 {selectedCar &&
                     <Col xs={12} md={12} xl={5} xxl={5} className="cs-col d-flex justify-content-center">
-                        <Card className="cs-card">
+                        <Card className="cs-card border-dark">
                             <Card.Body className="cs-body">
                             <h5 className="cs-cardTitle">{selectedCar.marca + " " + selectedCar.linea}</h5>
    
